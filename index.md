@@ -1,3 +1,4 @@
+# How to design a boss? 
 
 The final boss is more than just a super strong enemy. Before design a boss, you must have defined all the moves and attacks of the player. After that, you can start with three basic points:
 
@@ -213,5 +214,12 @@ Here you can find some cool bosses
 
 https://en.wikipedia.org/wiki/Category:Video_game_bosses
 
+If you need to get deep into the topic i recomend to watch the followings links: 
+
+http://www.gamasutra.com/view/feature/134503/boss_battle_design_and_structure.php?print=1
+
+http://www.gamasutra.com/view/news/129150/Tips_from_a_combat_designer_The_art_of_boss_design.php
+
+http://www.politicalavenue.com/108642/GAME-DESIGN-BOOK-COLLECTION/Level-up,%20the%20guide%20to%20great%20video%20game%20design,%20Scott%20Rogers.pdf
 
 
